@@ -33,6 +33,7 @@ def project_context(config_loader):
 # The tests below are here for the demonstration purpose
 # and should be replaced with the ones testing the project
 # functionality
+#test para commit
 class TestProjectContext:
     def test_project_path(self, project_context):
         assert project_context.project_path == Path.cwd()
