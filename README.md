@@ -1,6 +1,6 @@
 # Proyecto de Marketing SR
 
-## Overview
+## Over
 
 This is your new Kedro project for the [spaceflights tutorial](https://docs.kedro.org/en/stable/tutorial/spaceflights_tutorial.html), which was generated using `kedro 0.19.2`.
 
